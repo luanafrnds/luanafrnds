@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-Hello!!:) I'm just starting my career right now, and i've been practicing with some projects, feel free to check!
+Hello!!:) I'm a data science student, and i've been practicing with some projects, feel free to check!
 
 *   🌍  I'm based in São Paulo
 *   ✉️  You can contact me at [luffernandes05@gmail.com](mailto:luffernandes05@gmail.com)
